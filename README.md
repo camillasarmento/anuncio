@@ -1,0 +1,2 @@
+# anuncio
+Animated Ad Banner
